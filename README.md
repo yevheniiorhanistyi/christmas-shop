@@ -1,6 +1,7 @@
 # 🎄 Christmas Shop
 
-**Christmas Shop** is a cozy, holiday-themed mini web store built as part of a front-end learning project. The goal was to practice clean semantic markup, responsive design, and simple interactive features using vanilla JavaScript.
+**Christmas Shop** is a cozy, holiday-themed mini web store.  
+It features clean semantic markup, responsive design, and interactive elements implemented with **vanilla JavaScript**.
 
 ---
 
