@@ -1,1 +1,33 @@
-# christmas-shop
+# 🎄 Christmas Shop
+
+**Christmas Shop** is a cozy, holiday-themed mini web store built as part of a front-end learning project. The goal was to practice clean semantic markup, responsive design, and simple interactive features using vanilla JavaScript.
+
+---
+
+## 🎯 Features
+
+- Two pages: **Home** and **Gifts**
+- Valid, semantic, mobile-friendly layout
+- Responsive design (1440px → 380px)
+- Interactive elements implemented with JavaScript
+- Deployment via GitHub Pages
+
+---
+
+## 🛠️ Tech Stack
+
+- HTML5, CSS3, **SASS**
+- JavaScript (ES Modules)
+- ESLint (Airbnb), Prettier
+- Autoprefixer, the-new-css-reset
+- Fonts: @fontsource/montserrat, @fontsource/allura
+
+---
+
+![Desktop](./public/desktop.jpg)
+
+---
+
+## 🌐 Live Demo
+
+[👉 Christmas Shop](https://yevheniiorhanistyi.github.io/christmas-shop/dist/)
