@@ -1,6 +1,6 @@
-# 🎄 Christmas Shop
+# 🎄 The Gifts
 
-**Christmas Shop** is a cozy, holiday-themed mini web store.  
+**The Gifts** is a cozy, holiday-themed mini web store.  
 It features clean semantic markup, responsive design, and interactive elements implemented with **vanilla JavaScript**.
 
 ---
@@ -31,4 +31,4 @@ It features clean semantic markup, responsive design, and interactive elements i
 
 ## 🌐 Live Demo
 
-[👉 Christmas Shop](https://yevheniiorhanistyi.github.io/christmas-shop/dist/)
+[👉 The Gifts](https://yevheniiorhanistyi.github.io/christmas-shop/dist/)
